@@ -1,11 +1,13 @@
 package wsaula;
 
+/*Responsavel por deixar o serviço disponivel*/
 import javax.xml.ws.Endpoint;
 
 /**
  *
  * @author Leocassio
  */
+/*Classe principal que vai ser responsavel por publicar o serviço*/
 public class PublishWS {
 
     public static void main(String[] args) {
